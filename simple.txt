@@ -1,7 +1,1 @@
-SIMPLE
-
-JAVA
-
-GIT
-another line
-pragraming langusge
+one
